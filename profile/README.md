@@ -1,11 +1,10 @@
 # 10 Python Beer Lovers
-10 Python Beer Lovers
 
-(ロゴ画像を入れる)
+![10 Python Beer Lovers logo](10pbl_logo.png)
 
-(なんか説明を書く)
-* PyCon JP 2024のパーティーでスペシャルビールを作るために出資したメンバー
-* 参加者のみんなにもおいしいビールを飲んでもらいたい
+Pythonを愛し、ビールを愛し、そして飲んで楽しいことが大好きな人たちが、美味しいビールと共にみんなで楽しい場を作りたいと思って集まった有志たちです。
+
+We are a group of volunteers who love Python, love beer and love to drink and have fun, and we came together to create a fun place for everyone with good beer.
 
 ## Special Beer
 
