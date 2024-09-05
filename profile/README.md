@@ -13,7 +13,7 @@ We are a group of volunteers who love Python, love beer and love to drink and ha
 ## 出資者 / Investors
 
 * 辻 真吾 / Shingo Tsuji
-* 寺田 学 / Manabu Terada
+* 寺田 学 / Manabu Terada ([@terpayon](https://x.com/terapyon))
 * 鈴木 たかのり / Takanori Suzuki ([@takanory](https://twitter.com/takanory))
 * 小田切 篤 / Atsushi Odagiri
 * 大﨑 有依 / Yui Osaki
