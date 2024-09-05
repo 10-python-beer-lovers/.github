@@ -17,7 +17,7 @@ We are a group of volunteers who love Python, love beer and love to drink and ha
 * 鈴木 たかのり / Takanori Suzuki ([@takanory](https://twitter.com/takanory))
 * 小田切 篤 / Atsushi Odagiri
 * 大﨑 有依 / Yui Osaki
-* 橘 祐一郎 / Yuichiro Tachibana
+* 橘 祐一郎 / Yuichiro Tachibana ([@whitphx](https://x.com/whitphx); 👉[Profile](https://www.whitphx.info/))
 * 清水川 貴之 / Takayuki Shimizukawa
 * 加藤 公一 / Kimikazu Kato
 * 神沢 雄大 / Yuta Kanzawa
