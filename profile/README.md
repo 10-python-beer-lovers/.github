@@ -2,9 +2,16 @@
 10 Python Beer Lovers
 
 (ロゴ画像を入れる)
-(なんか説明を書く)
 
-## Investors
+(なんか説明を書く)
+* PyCon JP 2024のパーティーでスペシャルビールを作るために出資したメンバー
+* 参加者のみんなにもおいしいビールを飲んでもらいたい
+
+## Special Beer
+
+(ビールの名前とラベル画像を入れる)
+
+## 出資者 / Investors
 
 * 辻 真吾 / Shingo Tsuji
 * 寺田 学 / Manabu Terada
