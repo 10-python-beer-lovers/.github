@@ -24,7 +24,7 @@ $ python3
 * 辻 真吾 / Shingo Tsuji
 * 寺田 学 / Manabu Terada ([@terpayon](https://x.com/terapyon))
 * 鈴木 たかのり / Takanori Suzuki ([@takanory](https://twitter.com/takanory))
-* 小田切 篤 / Atsushi Odagiri
+* aodag
 * 大﨑 有依 / Yui Osaki
 * 橘 祐一郎 / Yuichiro Tachibana ([@whitphx](https://x.com/whitphx); 👉[Profile](https://www.whitphx.info/))
 * 清水川 貴之 / Takayuki Shimizukawa
