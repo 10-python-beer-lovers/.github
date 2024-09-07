@@ -6,9 +6,18 @@ Pythonを愛し、ビールを愛し、そして飲んで楽しいことが大�
 
 We are a group of volunteers who love Python, love beer and love to drink and have fun, and we came together to create a fun place for everyone with good beer.
 
-## Special Beer
+## Special Beer: Antigravity(反重力)
 
-(ビールの名前とラベル画像を入れる)
+「このビールを飲むと気持ちよくなって飛んじゃうよ」という気持ちを込めて名付けました。
+
+We named the beer with the feeling that "this beer will make you feel good and flying".
+
+```bash
+$ python3
+>>> import antigravity
+```
+
+<img src="antigravity_label.png" width="400" alt="Antigravity Label"/>
 
 ## 出資者 / Investors
 
